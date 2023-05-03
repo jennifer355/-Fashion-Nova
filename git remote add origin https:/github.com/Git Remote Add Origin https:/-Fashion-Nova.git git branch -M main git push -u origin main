@@ -1,0 +1,246 @@
+<html>
+    <body style="background-color:rgb(226, 125, 187);">
+    </body>
+<style> body { 
+    height:00%; 
+    margin:0;
+    padding:0;
+  }
+  
+  .contenedor {
+    display:flex;
+    flex-direction: column;
+    min-height:1000%;
+  }
+  
+  .contenedor  div {
+    flex:1;
+    display:flex;
+  }
+  .contenedor {
+    display:flex;
+    flex-direction: column;
+    min-height:100%;
+  }
+   .contenedor > div {
+    flex:1;
+    display:flex;
+  }
+  
+  
+  .fila0 { background:rgb(255, 119, 191);; }
+  .fila1 { background:rgb(255, 119, 191); }
+  
+
+
+
+
+
+
+
+
+
+  li{
+ list-style: none;
+ }
+ nav {
+ text-align: center;
+ }
+ nav ul {
+ display: inline-block;
+ margin: 0;
+ padding: 0;
+ /* Para IE 7*/
+ zoom:1;
+ *display: inline;
+ }
+ nav li {
+ float: left;
+ padding: 2px 5px;
+ border: 1px solid rgb(74, 1, 36);
+ background-color:#ff00d0;
+ margin: 50px;
+ border-radius: 5px;
+ }
+ nav li a{
+ text-decoration: none;
+ font-family: century gothic;
+ color: #ffffff;
+ }
+ nav li a:hover{
+ color: #4f0040;
+ }
+
+
+.video { position: relative; }
+    .marca { position: absolute; bottom: 10px; left: 10px;
+        font-family: Arial;
+        font-weight: bold;
+        font-size: 18px;
+        color: rgba(255,255,255,0.6);
+        
+    }
+
+
+
+
+
+    .zoomimg{
+                transition: width 0.5s, height 0.5s, transform 1s;
+ -moz-transition: width 0.5s, height 0.5s, transform 0.5s;
+-webkit-transition: width 0.5s, height 0.5s, transform 0.5s;
+-o-transition:width 0.5s,height 0.5s,transform 0.5s;
+            }
+            .zoomimg:hover{
+transform: scale(2);
+-moz-transform : scale(2);
+-webldt-transform: scale(2);
+-o-transform : scale(2);
+            }
+
+
+
+            .circulo{
+          width: 200px;
+          height: 200px; 
+          border-radius: 100px;
+        }
+
+</style>
+  <div class="contenedor">
+    <div class="fila0">  <img src="https://logos-world.net/wp-content/uploads/2023/03/Fashion-Nova-Logo-2006.png"alt="log.jpg" width=140 height=90 >  <p>
+<p><p>
+    <p></p>
+</p></p>
+    </p><center><h1> <font color="#FFFFFF"><p style="text-align:center">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 👗 Fashion Nova 👗 </font></h1></center></div>
+    <div class="fila1">  <nav>
+      <nav>
+        <ul>
+            <li><a href="#link01">I N I C I O</a></li>
+            <li><a href="#link02">P R O D U C T O S</a></li>
+            <li><a href="#link02">CA T A L O G O</a></li>
+            <li><a href="#link03">P A G O S </a></li>
+        </ul>
+    </nav>
+    </nav></div>
+    <div class="fila1">  <nav><html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <video src="Documents/1063715704-preview.mp4" autoplay="true" muted="true" width=1339 height=1001 loop="true" poster="Documents/1063715704-preview.mp4"></video>
+<section id="sect1" class="sect">
+    <div class="marca">  
+        <center>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤ👗 Fashion Nova 👗 LA MEJOR CALIDAD!</center>
+    </div>
+  </section>
+
+</body>
+
+</html>
+  </div>
+  </html>
+</nav></div>
+<div class="fila1">  <nav><center><head>
+    <title>Carousel/Slideshow</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+  </head>
+  <body>
+  
+  <div class="container">
+    <br>
+    <div id="theCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicadores -->
+      <ol class="carousel-indicators">
+        <li data-target="#theCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#theCarousel" data-slide-to="1"></li>
+        <li data-target="#theCarousel" data-slide-to="2"></li>
+        <li data-target="#theCarousel" data-slide-to="3"></li>
+        
+      </ol>
+  
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img src="https://www.umbrellachic.cl/wp-content/uploads/2022/12/R2430_1-300x400.jpg"   width=300 height=300 alt="Ilustracion" > 
+           <div class="carousel-caption d-none d-md-block">
+      <h3>Gusti Ilustración</h3>
+      <p>Exposición</p>
+    </div>
+        </div>
+  
+       
+      
+        <div class="item">
+          <img src="https://i.pinimg.com/originals/3e/82/0a/3e820acf161fd9b6c2f2bd3eed5d4e91.jpg" alt="fotografia"  width=300 height=300 > 
+           <div class="carousel-caption d-none d-md-block">
+      <h3> Xataka Fotografía</h3>
+      <p>Concurso</p>
+    </div>
+        </div>
+  
+       <div class="item">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4i7wocbledLkOA8BobsnimSlRi1gKrG6HQ&usqp=CAU" alt="pintura"  width=300 height=300>
+           <div class="carousel-caption d-none d-md-block">
+      <h3>DoArt Pintura</h3>
+      <p>Curso</p>
+    </div>
+        </div>
+         <div class="item">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngctqQNaAP7TXGx1kWIbX9vEpugwuOlh1Aw&usqp=CAU" alt="diseno" width=300 height=300 > 
+           <div class="carousel-caption d-none d-md-block">
+      <h3>UX UI Diseño Gráfico</h3>
+      <p>Curso</p>
+    </div>
+        </div>
+  
+  
+      <a class="left carousel-control" href="#theCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">anterior</span>
+      </a>
+      <a class="right carousel-control" href="#theCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">siguiente</span>
+      </a>
+    </div>
+  </div>
+  
+  </body></center>
+</nav></div>
+<div class="fila1">  <nav><head>
+</h1><p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://www.panoramamall.com/wp-content/uploads/2016/08/Fashion-Nova-Main.jpg" width=509 height=400 class="zoomimg">
+  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<Center><h1>ㅤㅤㅤㅤㅤcontamos con estos servicios!</h1></Center><p>
+    <ul>
+      <ol>VESTIDOS DE GALA</ol>
+      <ol>VESTIDOS COTIDIANOS</ol>
+      <OL>ROPA DE LA MEJOR CALIDAD</OL>
+      <OL>PRENDAS DE USO DIARIO</OL>
+    </ul>
+
+ 
+    
+</head></nav>
+
+<div class="fila1"><nav><head>
+    
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      
+    </head>
+    <body>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngctqQNaAP7TXGx1kWIbX9vEpugwuOlh1Aw&usqp=CAU" class="circulo">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4i7wocbledLkOA8BobsnimSlRi1gKrG6HQ&usqp=CAU" class="circulo">
+      <img src="https://i.pinimg.com/originals/3e/82/0a/3e820acf161fd9b6c2f2bd3eed5d4e91.jpg" class="circulo">
+      <img src="https://i.pinimg.com/736x/31/3f/8a/313f8a14ceae8f9f8d667e17543204d8.jpg" class="circulo">
+      <img src="https://fashionjas.com.co/wp-content/uploads/2022/10/Vestido-Gala-Satin-Luxury-4-300x429.jpg" class="circulo">
+      <img src="https://www.umbrellachic.cl/wp-content/uploads/2022/12/R2430_1-300x400.jpg" class="circulo">
+    </body>
+  </nav></head>
+  <div class="fila3"><nav><head>  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15017.386263343535!2d-99.12389446102362!3d19.782898046593534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d18b921921ec77%3A0x684d718c2c4d4e61!2sSan%20Pedro%20de%20la%20Laguna%2C%20Zumpango%20de%20Ocampo%2C%20M%C3%A9x.!5e0!3m2!1ses-419!2smx!4v1682666138573!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center></head>
+    <div class="fila3"><nav><head><font color="000000">Todos los Derechos Reservados © 2023 👗 Fashion Nova 👗</font></head>
